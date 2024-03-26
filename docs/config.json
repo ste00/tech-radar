@@ -3,7 +3,7 @@
   "entries": [
   
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 2,
       "label": "ChatGPT 3.0",
       "link": "https://engineering.zalando.com/tags/apache-flink.html",
